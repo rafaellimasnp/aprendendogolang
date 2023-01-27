@@ -1,0 +1,12 @@
+26/01/2023 23:37:01 - https://random-status-code.herokuapp.com/- online false
+26/01/2023 23:37:01 - https://www.alura.com.br- online true
+26/01/2023 23:37:02 - https://www.caelum.com.br- online true
+26/01/2023 23:37:03 - http://datanorte.com.br/- online true
+26/01/2023 23:37:09 - https://random-status-code.herokuapp.com/- online false
+26/01/2023 23:37:09 - https://www.alura.com.br- online true
+26/01/2023 23:37:09 - https://www.caelum.com.br- online true
+26/01/2023 23:37:10 - http://datanorte.com.br/- online true
+26/01/2023 23:37:16 - https://random-status-code.herokuapp.com/- online false
+26/01/2023 23:37:16 - https://www.alura.com.br- online true
+26/01/2023 23:37:16 - https://www.caelum.com.br- online true
+26/01/2023 23:37:17 - http://datanorte.com.br/- online true
